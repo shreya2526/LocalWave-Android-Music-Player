@@ -238,13 +238,6 @@ VM --> UI
 
 # 📸 Screenshots / Demo
 
-## Permission Dialogs
-
-<p align="center">
-  <img src="/images/Storage_Permission.png" height=500>
-  <img src="/images/Notification_Pemission.png" height=500>
-</p>
-
 ## Music Player
 
 https://github.com/user-attachments/assets/be414911-9333-4410-aa30-c45ba11ab95a
