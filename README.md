@@ -347,7 +347,7 @@ The application works entirely offline.
 # 📂 Project Structure
 
 ```text
-kush.android.musicplayer
+sc.android.musicplayer
 │
 ├── data
 │   ├── DatabaseProvider
