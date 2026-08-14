@@ -242,13 +242,6 @@ VM --> UI
 
 https://github.com/user-attachments/assets/be414911-9333-4410-aa30-c45ba11ab95a
 
-## Favorites Screen
-
-<p align="center">
-  <img src="/images/Favourite_Screen_Light_theme.png" height=500>
-  <img src="/images/Favourite_Screen_Dark_theme.png" height=500>
-</p>
-
 ## Dynamic Theme Example
 
 https://github.com/user-attachments/assets/add03101-0f02-46b8-9dc3-6e91bb7a5dbc
@@ -276,6 +269,12 @@ https://github.com/user-attachments/assets/f673876b-6642-49f6-b78e-fd2cac385c74
 ```text
 YouTube- https://youtu.be/vhtw_aiRCjo?si=DmRlnsNZOX3WFeJB
 X - https://x.com/kushalreya/status/2061441387904786607?s=20
+```
+
+## App Deployment
+
+```text
+Google Playstore - https://play.google.com/store/apps/details?id=kr.android.musicplayer
 ```
 
 ---
