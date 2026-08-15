@@ -270,13 +270,6 @@ https://github.com/user-attachments/assets/f673876b-6642-49f6-b78e-fd2cac385c74
 YouTube- https://youtu.be/vhtw_aiRCjo?si=DmRlnsNZOX3WFeJB
 X - https://x.com/kushalreya/status/2061441387904786607?s=20
 ```
-
-## App Deployment
-
-```text
-Google Playstore - https://play.google.com/store/apps/details?id=kr.android.musicplayer
-```
-
 ---
 
 # 🌐 API Integration
